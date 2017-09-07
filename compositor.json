@@ -50,8 +50,8 @@
     },
     {
       "component": "header",
-      "heading": "react-compositor",
-      "subhead": "This is a starter kit of react-redux",
+      "heading": "arun tummala's website",
+      "subhead": "this is the home page of nothing",
       "children": [
         {
           "component": "ui/TweetButton",
